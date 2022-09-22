@@ -1,5 +1,5 @@
 # progate.github.io
-Progate Bootcam Web Developer
+Progate Bootcamp Web Developer
 
 Access it here https://yasirrhaq.github.io/progate/
 
